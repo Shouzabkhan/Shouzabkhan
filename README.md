@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **COBOL**
 
-❓ Ask me about **Cryptography,Clouds,Forensics**
+❓ Ask me about **Cryptography,AWS,Software Engineering**
 
 📄 Know about my experiences **https://github.com/Shouzabkhan/Resume-**
 
