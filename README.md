@@ -1,4 +1,4 @@
-### <div align="center">I'm Shouzab, a Data & security Analyst 👨‍💻 🚀</div>
+### <div align="center">I'm Shouzab, a Data & Security Analyst 👨‍💻 🚀</div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=mikaeelkhalid&style=flat-square&label=Profile%20Views&color=0e75b6&color=blueviolet" alt="mikaeelkhalid" /></div>
 
