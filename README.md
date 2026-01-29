@@ -4,11 +4,11 @@
 
 <br/>
 
-🔭 I’m currently working on **DevSecOps**
+🔭 I’m currently working on **AI Models**
 
 🌱 I’m currently learning **COBOL**
 
-❓ Ask me about **Cryptography,AWS,Software Engineering**
+❓ Ask me about **Artificial Engineering,AWS,Machine Learning**
 
 📄 Know about my experiences **https://github.com/Shouzabkhan/Resume-**
 
